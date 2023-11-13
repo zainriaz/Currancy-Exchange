@@ -54,9 +54,6 @@ dependencies {
     /*Http*/
     implementation 'com.squareup.okhttp3:okhttp:4.9.3'
 
-    //Linechart
-    implementation 'com.github.PhilJay:MPAndroidChart:v3.1.0'
-
     /*Retrofit+rxjava*/
     implementation 'io.reactivex:rxandroid:1.2.1'
     implementation 'com.squareup.retrofit2:adapter-rxjava:2.4.0'
